@@ -685,7 +685,7 @@ layout: exam
     - D. All of the above
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
+      Correct answer: A
     </details>
 
 9. Which of the following is true?
@@ -715,7 +715,7 @@ layout: exam
     - D. It was developed mainly for uncompressed video and audio
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: A
     </details>
 
 12. Which of the following is not true about wirelessHD?
@@ -817,7 +817,7 @@ layout: exam
     - D. limitless
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
+      Correct answer: A
     </details>
 
 7. Which of the following is true about an active tag?
@@ -827,7 +827,7 @@ layout: exam
     - D. None of the above
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
+      Correct answer: B
     </details>
 
 8. Which of the following statements is not true?
@@ -857,7 +857,7 @@ layout: exam
     - D. Access control
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
+      Correct answer: B
     </details>
 
 11. Ultra-High Frequency RFID is not used for?
@@ -999,7 +999,7 @@ layout: exam
     - D. All of the above
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: A
     </details>
 
 11. A centre excited cell makes use of:
